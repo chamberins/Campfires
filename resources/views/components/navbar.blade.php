@@ -8,15 +8,15 @@
                     </div>
                     <div class="hidden sm:ml-6 sm:block">
                         <div class="flex space-x-4">
-                            <a href="#" class="rounded-md  px-3 py-2 text-sm font-medium text-primary"
+                            <a href="{{url('/')}}" class="rounded-md  px-3 py-2 text-sm font-semibold text-primary hover:text-black"
                                 aria-current="page">Home</a>
                             <a href="#"
-                                class="rounded-md px-3 py-2 text-sm font-medium text-primary hover:bg-gray-700 hover:text-white">About
+                                class="rounded-md px-3 py-2 text-sm font-semibold text-primary hover:bg-gray-700 hover:text-black">About
                                 Us</a>
                             <a href="#"
-                                class="rounded-md px-3 py-2 text-sm font-medium text-primary hover:bg-gray-700 hover:text-white">Product</a>
+                                class="rounded-md px-3 py-2 text-sm font-semibold text-primary hover:bg-gray-700 hover:text-black">Product</a>
                             <a href="#"
-                                class="rounded-md px-3 py-2 text-sm font-medium text-primary hover:bg-gray-700 hover:text-white">Recommended</a>
+                                class="rounded-md px-3 py-2 text-sm font-semibold text-primary hover:bg-gray-700 hover:text-black">Recommended</a>
                         </div>
                     </div>
                 </div>

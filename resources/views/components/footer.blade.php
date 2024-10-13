@@ -1,4 +1,4 @@
-<section class="bg-black pt-18 pb-8">
+<section class="bg-[#212529] pt-18 pb-8">
     <div class="container mx-auto px-4 md:px-8">
         <div class="footer">
             <div

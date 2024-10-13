@@ -8,3 +8,6 @@ use Inertia\Inertia;
 Route::get('/', function () {
     return view('dashboard');
 });
+Route::get('/about', function () {
+    return view('about');
+});
