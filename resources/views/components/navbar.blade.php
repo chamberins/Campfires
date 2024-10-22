@@ -8,7 +8,8 @@
                     </div>
                     <div class="hidden sm:ml-6 sm:block">
                         <div class="flex space-x-4">
-                            <a href="{{url('/')}}" class="rounded-md  px-3 py-2 text-sm font-semibold text-primary hover:text-black"
+                            <a href="{{ url('/') }}"
+                                class="rounded-md  px-3 py-2 text-sm font-semibold text-primary hover:text-black"
                                 aria-current="page">Home</a>
                             <a href="#"
                                 class="rounded-md px-3 py-2 text-sm font-semibold text-primary hover:bg-gray-700 hover:text-black">About

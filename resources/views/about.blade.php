@@ -23,7 +23,7 @@
                     <div class="content-subtext mt-8 md:mt-0">
                         <h2 class="text-xl md:text-2xl lg:text-3xl font-bold text-green-800 mb-4">Tentang Kami</h2>
                         <p class="text-justify max-w-full md:max-w-[549px]">
-                            <span class="text-bold font-semibold">Camp Fires </span>
+                            <span class="text-bold font-semibold ">Camp Fires </span>
                             hadir untuk memudahkan setiap petualangan mu. Kami menyediakan berbagai macam peralatan
                             camping
                             berkualitas dengan harga sewa yang terjangkau. Percaya pada kami, alam terbuka memanggil!
