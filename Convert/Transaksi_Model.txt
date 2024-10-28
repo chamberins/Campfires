@@ -1,0 +1,21 @@
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Transaksi extends Model
+{
+    use HasFactory;
+
+    protected $primaryKey = 'id_transaksi';
+
+    public function pelanggan()
+    {
+        return $this->belongsTo(Pelanggan::class, 'pelanggan_id', 'id_pelanggan');
+    }
+
+    public function barang()
+    {
+        return $this->belongsTo(Barang::class, 'barang_id', 'id_barang');
+    }
+}

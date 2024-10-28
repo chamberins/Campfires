@@ -1,0 +1,4 @@
+php artisan make:model Transaksi -m
+php artisan make:model Pelanggan -m
+php artisan make:model Pemilik -m
+php artisan make:model Barang -m
