@@ -1,4 +1,4 @@
-<section class="sticky top-0 bg-white z-50 px-4 md:px-20">
+<section class="sticky top-0 bg-white z-50 px-4 md:px-20 shadow-sm">
     <nav class="bg-white">
         <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
             <div class="relative flex h-16 items-center justify-between">
